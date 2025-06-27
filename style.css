@@ -1,0 +1,9 @@
+
+body { background: #121212; color: #fff; font-family: 'VT323', monospace; margin:0; padding: 0 20px;}
+h1 { color: #5FE97D; text-align:center;}
+h2 { color: #71C7EC; }
+#language-selector { text-align:center; margin: 1rem 0;}
+.lang-btn { background: #1E1E1E; border: 2px solid #5FE97D; color: #5FE97D; font-family: 'VT323', monospace; padding:8px 16px; margin:0 5px; border-radius:8px; cursor:pointer;}
+.lang-btn:hover { background: #5FE97D; color: #121212;}
+.lang-en { display:none; }
+footer { text-align:center; margin-top:2rem; font-size:0.9rem;}
